@@ -27,25 +27,28 @@ git clone https://github.com/EloiStree/2022_01_24_XOMI.git
 In `shell:startup`
 
 For the defender computer:
-
-```shell
+```
 LaunchWidthDefenderIndexAbsolutePath.bat
+```
+```shell
 python "C:\Git\liftoff\2025_04_26_LiftoffTelemetryPyUnity\Py\LiftOffPlayerIndexTelemetryRelay.py" 1
 pause 15
 ```
 
 For the attacking computer:
-
-```shell
+```
 LaunchWidthAttackerIndexAbsolutePath.bat
+```
+```shell
 python "C:\Git\liftoff\2025_04_26_LiftoffTelemetryPyUnity\Py\LiftOffPlayerIndexTelemetryRelay.py" 2
 pause 15
 ```
 
 For both computers:
-
-```shell
+```
 LaunchGamepadSimulatorXOMI.bat
+```
+```shell
 cd "C:\Git\liftoff\2022_01_24_XOMI\"
 start "" "C:\Git\liftoff\2022_01_24_XOMI\bin\Debug\net9.0\XOMI.exe"
 ```
