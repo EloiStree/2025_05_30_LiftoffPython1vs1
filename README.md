@@ -52,3 +52,15 @@ LaunchGamepadSimulatorXOMI.bat
 cd "C:\Git\liftoff\2022_01_24_XOMI\"
 start "" "C:\Git\liftoff\2022_01_24_XOMI\bin\Debug\net9.0\XOMI.exe"
 ```
+
+
+Add a shortcut file to launch the game at start
+
+```
+[InternetShortcut]
+URL=steam://rungameid/410340
+```
+
+
+
+
