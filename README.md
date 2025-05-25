@@ -1,6 +1,4 @@
-Here is the corrected spelling and some minor grammatical improvements for your text:
 
----
 
 # Liftoff Python 1v1
 
@@ -51,5 +49,3 @@ LaunchGamepadSimulatorXOMI.bat
 cd "C:\Git\liftoff\2022_01_24_XOMI\"
 start "" "C:\Git\liftoff\2022_01_24_XOMI\bin\Debug\net9.0\XOMI.exe"
 ```
-
-
