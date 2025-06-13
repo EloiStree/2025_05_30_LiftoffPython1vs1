@@ -63,4 +63,7 @@ URL=steam://rungameid/410340
 
 
 
-
+Note:
+- https://www.velocidrone.com
+- https://store.steampowered.com/app/1881200/TRYP_FPV_Drone_Racer_Simulator/
+- https://www.liftoff-game.com
